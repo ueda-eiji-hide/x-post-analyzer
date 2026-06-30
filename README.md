@@ -1,8 +1,8 @@
-# X Analytics Tool (Sauna Edition)
+# X Post Analyzer
 
-A lightweight, browser-only analytics dashboard for X (Twitter) content creators — built to analyze post performance for a sauna-focused account, but works for any niche.
+A lightweight, browser-only analytics dashboard for X (Twitter) content creators — analyze post performance, content types, and posting patterns from your own data.
 
-🇯🇵 X（旧Twitter）の投稿データ（CSV）をアップロードするだけで、インプレッション・ブックマーク・エンゲージメント率などを自動分析できる軽量ダッシュボードです。サウナ系アカウントの分析用に作りましたが、どんなジャンルでも使えます。
+🇯🇵 X（旧Twitter）の投稿データ（CSV）をアップロードするだけで、インプレッション・ブックマーク・エンゲージメント率などを自動分析できる軽量ダッシュボードです。どんなジャンルのアカウントでも使えます。
 
 ## What it does / できること
 
@@ -14,9 +14,9 @@ A lightweight, browser-only analytics dashboard for X (Twitter) content creators
 
 ## Why I built this / 作った理由
 
-I run a sauna-focused X account (100+ facility visits/year) and wanted a simple way to understand which post types and timing actually perform — without relying on paid analytics tools.
+I run an X account and wanted a simple way to understand which post types and timing actually perform — without relying on paid analytics tools.
 
-サウナ系のX運用をする中で、「どの投稿タイプが伸びるか」「曜日でどう変わるか」を手元で素早く把握したくて作りました。有料の分析ツールを使わず、CSVをアップロードするだけで完結します。
+Xアカウントを運用する中で、「どの投稿タイプが伸びるか」「曜日でどう変わるか」を手元で素早く把握したくて作りました。有料の分析ツールを使わず、CSVをアップロードするだけで完結します。
 
 ## How to use / 使い方
 
